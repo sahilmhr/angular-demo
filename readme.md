@@ -1,5 +1,5 @@
-##Angular Demo App
+## Angular Demo App
 
-*Input Event
+* Input Event
 
-*Todo Tables
+* Todo Tables
