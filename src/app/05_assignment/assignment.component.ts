@@ -21,9 +21,9 @@ export class AssignmentComponent {
     { id: 'TODO_4', type: 'Teach JavaScript', description: 'A ubiquitous language in browser', completed: false }
   ];
 
-  selected: Todo
+  //selected: Todo
 
-  onSelect(todo: Todo){
-    this.selected = todo;
-  }
+  //onSelect(todo: Todo){
+  //  this.selected = todo;
+  //}
 }
